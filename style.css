@@ -1,0 +1,9 @@
+.container{
+    -webkit-text-fill-color: black;
+}
+
+body {
+    background-image: url('./Images/YourName3.jpg');
+    background-size: cover;
+    opacity: 0.75;
+  }
